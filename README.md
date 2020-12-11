@@ -1,11 +1,18 @@
 # Matheus Rian | Front-end
-> Ser menos, fazer mais...
+#### *"Ser menos, fazer mais..."* 
 ***
 [![Instagram Badge](https://img.shields.io/badge/-@Matheus_Rian-52BAC4?style=flat-square&labelColor=52BAC4&logo=instagram&logoColor=white&link=https://www.instagram.com/_matheus_rian/)](https://www.instagram.com/_matheus_rian/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Rian-52BAC4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-rian-19b81a183/)](https://www.linkedin.com/in/matheus-rian-19b81a183/) 
 [![Gmail Badge](https://img.shields.io/badge/-souzamatheusrian@gmail.com-52BAC4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamatheusrian@gmail.com)](mailto:souzamatheusrian@gmail.com)
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rian&theme=radical&title_color=52BAC4&text_color=fff)
+<p>
+<a href="https://github.com/Matheus-Rian">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Rian&title_color=52BAC4&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matheus-Rian&title_color=52BAC4&theme=radical&layout=compact&exclude_lang=java+r%22" />
+</a>
+</p>
+
+
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
