@@ -1,19 +1,19 @@
 # Matheus Rian | Front-end
 ####
-## Oii, devs do bem!
-<p>Sou desenvolvedor Front-End e estou sempre disposto a aprender coisas novas!</p> 
-<p>Pernambucano apaixonado e transformado pela área de T.I! Amo programar, inovar, compartilhar conhecimnento e principalmente gerar valor para as pessoas!</p>
-<p>Programação é sobre ajudar pessoas, por meio da tecnologia. Por isso, eu amo tanto essa área, acredito que estou fazendo diferença a elas e ao mundo, tornando ele um lugar melhor!</p>
-<p> Gosto de ler, aprender, conversar com as pessoas, resolver problemas(fora e dentro da programação), robótica e outras coisinhas...</p>
+## Oii, devs do bem! 🪐
+<p>📒 Sou desenvolvedor Front-End e estou sempre disposto a aprender coisas novas!</p> 
+<p>📘 Pernambucano apaixonado e transformado pela área de T.I! Amo programar, inovar, compartilhar conhecimnento e principalmente gerar valor para as pessoas!</p>
+<p>📕 Programação é sobre ajudar pessoas, por meio da tecnologia. Por isso, eu amo tanto essa área, acredito que estou fazendo diferença a elas e ao mundo, tornando ele um lugar melhor!</p>
+<p>📗 Gosto de ler, aprender, conversar com as pessoas, resolver problemas(fora e dentro da programação), robótica e outras coisinhas...</p>
 
-**"Plantar troca de experiência para colher inovação!"**
+**"🌱Plantar troca de experiência para colher inovação!"**
 ***
 [![Instagram Badge](https://img.shields.io/badge/-@Matheus_Rian-52BAC4?style=flat-square&labelColor=52BAC4&logo=instagram&logoColor=white&link=https://www.instagram.com/_matheus_rian/)](https://www.instagram.com/_matheus_rian/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Rian-52BAC4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-rian-19b81a183/)](https://www.linkedin.com/in/matheus-rian-19b81a183/) 
 [![Gmail Badge](https://img.shields.io/badge/-souzamatheusrian@gmail.com-52BAC4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamatheusrian@gmail.com)](mailto:souzamatheusrian@gmail.com)
 ***
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="left">🛠 Linguagens e ferramentas:</h3>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
