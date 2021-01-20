@@ -5,7 +5,7 @@
 ####
 ## Oii, devs do bem! 🪐
 <p>📒 Sou desenvolvedor Front-End e estou sempre disposto a aprender coisas novas!</p> 
-<p>📘 Pernambucano apaixonado e transformado pela área de T.I! Amo programar, inovar, compartilhar conhecimnento e principalmente gerar valor para as pessoas!</p>
+<p>📘 Pernambucano apaixonado e transformado pela área de T.I! Amo programar, inovar, compartilhar conhecimento e principalmente gerar valor para as pessoas!</p>
 <p>📕 Programação é sobre ajudar pessoas, por meio da tecnologia. Por isso, eu amo tanto essa área, acredito que estou fazendo diferença a elas e ao mundo, tornando ele um lugar melhor!</p>
 <p>📗 Gosto de ler, aprender, conversar com as pessoas, resolver problemas(fora e dentro da programação), robótica e outras coisinhas...</p>
 
