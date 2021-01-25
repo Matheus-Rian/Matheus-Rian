@@ -3,17 +3,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Rian-52BAC4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-rian-19b81a183/)](https://www.linkedin.com/in/matheus-rian-19b81a183/) 
 [![Gmail Badge](https://img.shields.io/badge/-souzamatheusrian@gmail.com-52BAC4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamatheusrian@gmail.com)](mailto:souzamatheusrian@gmail.com)
 ####
-## Oii, devs do bem! 🪐
-<p>📒 Sou desenvolvedor Front-End e estou sempre disposto a aprender coisas novas!</p> 
-<p>📘 Pernambucano apaixonado e transformado pela área de T.I! Amo programar, inovar, compartilhar conhecimento e principalmente gerar valor para as pessoas!</p>
-<p>📕 Programação é sobre ajudar pessoas, por meio da tecnologia. Por isso, eu amo tanto essa área, acredito que estou fazendo diferença a elas e ao mundo, tornando ele um lugar melhor!</p>
-<p>📗 Gosto de ler, aprender, conversar com as pessoas, resolver problemas(fora e dentro da programação), robótica e outras coisinhas...</p>
+## Hi, good people! 🪐
+<p>📒 I'm a Front-End developer and I'm always willing to learn new things!</p> 
+<p>📘 Pernambucano in love and transformed by the IT area! I love to program, innovate, share knowledge and mainly generate value for people!</p>
+<p>📕 Programming is about helping people, through technology. That's why I love this area so much, I believe I'm making a difference to them and the world, making it a better place!</p>
+<p>📗 I like to read, learn, talk to people, solve problems (outside and inside the program), robotics and other little things ...</p>
 
-**"🌱Plantar troca de experiência para colher inovação!"**
+**"🌱Plant exchange of experience to reap innovation!"**
 
 ***
 
-<h3 align="left">🛠 Linguagens e ferramentas:</h3>
+<h3 align="left">🛠 Languages and tools:</h3>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
