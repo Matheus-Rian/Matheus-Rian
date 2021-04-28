@@ -29,6 +29,8 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Ionic](https://img.shields.io/badge/-Ionic-84AAF7?style=flat-square&logo=ionic&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-075B9A?style=flat-square&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-2BB7F6?style=flat-square&logo=dart&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
