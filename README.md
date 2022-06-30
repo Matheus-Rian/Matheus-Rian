@@ -37,6 +37,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
  
+ ![AWS](assets/aws-certified-cloud-practitioner.png)
 <!--
 **Matheus-Rian/Matheus-Rian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
