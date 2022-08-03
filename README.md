@@ -14,8 +14,8 @@
 **"🌱Plant exchange of experience to reap innovation!"**
 
 ***
-
-<h3 align="left">🛠 Languages and tools:</h3>
+ 
+<h3 align="left">🔥 Technologies in focus:</h3>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
@@ -23,21 +23,25 @@
   ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+  ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
+  ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-Jest-99435B?style=flat-square&logo=jest&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  
+  ![AWS](assets/aws-certified-cloud-practitioner.png)
+  
+<h3 align="left">🛠 General technologies:</h3>
+
   ![Angular](https://img.shields.io/badge/-Angular-BD002E?style=flat-square&logo=angular&logoColor=white)
   ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
   ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
-  ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-  ![Jest](https://img.shields.io/badge/-Jest-99435B?style=flat-square&logo=jest&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
-  ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Ionic](https://img.shields.io/badge/-Ionic-84AAF7?style=flat-square&logo=ionic&logoColor=white)
   ![Flutter](https://img.shields.io/badge/-Flutter-075B9A?style=flat-square&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/-Dart-2BB7F6?style=flat-square&logo=dart&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
  
- ![AWS](assets/aws-certified-cloud-practitioner.png)
 <!--
 **Matheus-Rian/Matheus-Rian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
