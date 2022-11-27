@@ -28,6 +28,7 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![Testing Library](https://img.shields.io/badge/-Testing%20Library-ED4D53?style=flat-square&logo=testing-library&logoColor=white)
   ![Jest](https://img.shields.io/badge/-Jest-99435B?style=flat-square&logo=jest&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/-Cypress-1A2734?style=flat-square&logo=cypress&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   
   ![AWS](assets/aws-certified-cloud-practitioner.png)
