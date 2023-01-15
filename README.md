@@ -13,7 +13,7 @@ Software Engineer | Accenture
 
 <div align="right">
      <a href="https://github.com/Matheus-Rian">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rian&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
+        <img height="180em" src="https://gh-readme-matheusrian.vercel.app/api/top-langs/?username=Matheus-Rian&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
@@ -28,9 +28,14 @@ Acredito que a tecnologia é um grande agente transformador de futuros assim com
 > Material da última palestra [aqui](https://lnkd.in/dbCQ4pCr) 📄
 
 ---
+<details>
+<summary>
+  Conhecimentos técnicos
+</summary>
+
+</br>
 
 🔥 **Tecnologias em Foco:**
-
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
@@ -71,3 +76,4 @@ Acredito que a tecnologia é um grande agente transformador de futuros assim com
 - Design Patterns;
 - Eslint, prettier e editorconfig;
 
+</details>
