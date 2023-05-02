@@ -59,11 +59,13 @@ Acredito que a tecnologia é um grande agente transformador de futuros assim com
   ![Ionic](https://img.shields.io/badge/-Ionic-84AAF7?style=flat-square&logo=ionic&logoColor=white)
   ![Flutter](https://img.shields.io/badge/-Flutter-075B9A?style=flat-square&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/-Dart-2BB7F6?style=flat-square&logo=dart&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-1d4ed8?style=flat-square&logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
+  
   
   ![AWS](assets/aws-certified-cloud-practitioner.png)
   
