@@ -21,7 +21,7 @@ Software Engineer | Accenture
 
 Olá, meu nome é **Matheus Rian**!
 
-Técnico em Desenvolvimento de Sistemas atuando como **Desenvolvedor Front-End há mais de 2 anos**. Entrei no mercado de trabalho ainda no ensino médio, pelo motivo de sempre estar disposto a aprender e compartilhar conhecimento.
+Técnico em Desenvolvimento de Sistemas atuando como **Desenvolvedor Front-End desde 2020s**. Entrei no mercado de trabalho ainda no ensino médio, pelo motivo de sempre estar disposto a aprender e compartilhar conhecimento.
 
 Acredito que a tecnologia é um grande agente transformador de futuros assim como o meu. Por isso, meu objetivo é ser um profissional de alto nível que possa impactar jovens de forma positiva e mostrar que a tecnologia é para todos!
 
