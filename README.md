@@ -1,14 +1,4 @@
 <img src="https://github.com/Matheus-Rian/Matheus-Rian/assets/53922139/513eec0b-f14f-4e5a-b65f-7e7d2f06500a">
-<h1 align="center"> Matheus Rian </h1>
-
-<div align="center">
-Software Engineer | Accenture 
-    
-*Focused on FrontEnd*
- 
- [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Rian-1A2734?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-riann/)](https://www.linkedin.com/in/matheus-riann/) 
- [![Gmail Badge](https://img.shields.io/badge/-souzamatheusrian@gmail.com-1A2734?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souzamatheusrian@gmail.com)](mailto:souzamatheusrian@gmail.com)
-</div>
 
 ---
 
@@ -18,6 +8,8 @@ Software Engineer | Accenture
         alt="Linguagens mais usadas" align="right">
     </a>
 </div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus_Rian-1A2734?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-riann/)](https://www.linkedin.com/in/matheus-riann/) 
 
 Olá, sou o **Matheus Rian!**
 
