@@ -1,3 +1,4 @@
+<img src="https://github.com/Matheus-Rian/Matheus-Rian/assets/53922139/513eec0b-f14f-4e5a-b65f-7e7d2f06500a">
 <h1 align="center"> Matheus Rian </h1>
 
 <div align="center">
@@ -18,14 +19,12 @@ Software Engineer | Accenture
     </a>
 </div>
 
+Olá, sou o **Matheus Rian!**
 
-Olá, meu nome é **Matheus Rian**!
+Desenvolvedor Front-End e Palestrante apaixonado por **tecnologia e educação**. 
 
-Técnico em Desenvolvimento de Sistemas atuando como **Desenvolvedor Front-End desde 2020**. Entrei no mercado de trabalho ainda no ensino médio, pelo motivo de sempre estar disposto a aprender e compartilhar conhecimento.
+Atuo no mercado como **desenvolvedor Front-End desde 2020**, utilizando tecnologias como Angular e React. Comecei a programar ainda no ensino médio e desde então não parei de aprender e me desenvolver. Sou um multiplicador, buscando disseminar conhecimento e gerar impacto positivo dentro das comunidades. Hoje, ministro palestras em eventos e contribuo com artigos no [Medium](https://medium.com/@matheusriann) e [dev.to](https://dev.to/matheusriann).
 
-Acredito que a tecnologia é um grande agente transformador de futuros assim como o meu. Por isso, meu objetivo é ser um profissional de alto nível que possa impactar jovens de forma positiva e mostrar que a tecnologia é para todos!
-
-> Material da última palestra [aqui](https://lnkd.in/dbCQ4pCr) 📄
 
 ---
 <details>
@@ -47,8 +46,8 @@ Acredito que a tecnologia é um grande agente transformador de futuros assim com
   ![SASS](https://img.shields.io/badge/-SASS-C76494?style=flat-square&logo=sass&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
 
- 
 ---
+
 
 🛠 **As tecnologias do meu conhecimento geral são:**
 
@@ -79,3 +78,4 @@ Acredito que a tecnologia é um grande agente transformador de futuros assim com
 - Eslint, prettier e editorconfig;
 
 </details>
+
