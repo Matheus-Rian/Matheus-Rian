@@ -2,14 +2,13 @@
 
 ---
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus_Rian-1A2734?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-riann/)](https://www.linkedin.com/in/matheus-riann/) 
+![LinkedinBadge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-riann/)
+![MediumBadge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@matheusriann)
+![DevdottoBadge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/matheusriann) 
 
-Olá, sou o **Matheus Rian!**
+Hi, I'm **Matheus Rian!**
 
-Desenvolvedor Front-End e Palestrante apaixonado por **tecnologia e educação**. 
-
-Atuo no mercado como **desenvolvedor Front-End desde 2020**, utilizando tecnologias como Angular e React. Comecei a programar ainda no ensino médio e desde então não parei de aprender e me desenvolver. Sou um multiplicador, buscando disseminar conhecimento e gerar impacto positivo dentro das comunidades. Hoje, ministro palestras em eventos e contribuo com artigos no [Medium](https://medium.com/@matheusriann) e [dev.to](https://dev.to/matheusriann).
-
+Front-End Developer passionate about sharing knowledge, **working since 2020** and creating innovative solutions **with React, Angular, AWS, and modern technologies.** I stand out in agile team collaboration, applying development best practices, and mentoring colleagues. I actively contribute to the developer community through lectures and articles, always striving for technical excellence and positive impact.
 
 ---
 
