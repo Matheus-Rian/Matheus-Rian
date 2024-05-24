@@ -2,9 +2,9 @@
 
 ---
 
-![LinkedinBadge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-riann/)
-![MediumBadge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@matheusriann)
-![DevdottoBadge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/matheusriann) 
+[![LinkedinBadge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-riann/)
+[![MediumBadge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@matheusriann)
+[![DevdottoBadge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/matheusriann)
 
 Hi, I'm **Matheus Rian!**
 
