@@ -6,9 +6,9 @@
 [![MediumBadge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@matheusriann)
 [![DevdottoBadge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/matheusriann)
 
-Hi, I'm **Matheus Rian!**
+I'm a FrontEnd Enginner passionate about sharing knowledge, **working since 2020**, and creating innovative solutions **with React, Angular, AWS, and modern technologies.** I love collaborating with agile teams, following best practices, and mentoring and learning alongside my teammates. 
 
-Front-End Developer passionate about sharing knowledge, **working since 2020** and creating innovative solutions **with React, Angular, AWS, and modern technologies.** I stand out in agile team collaboration, applying development best practices, and mentoring colleagues. I actively contribute to the developer community through lectures and articles, always striving for technical excellence and positive impact.
+You'll often find me contributing to the developer community through talks and articles, always aiming for technical excellence and making a positive impact.
 
 ---
 
