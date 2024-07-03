@@ -36,7 +36,7 @@ You'll often find me contributing to the developer community through talks and a
   ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
+  
 **Testing Frameworks/libs:**
 
   ![Vitest](https://img.shields.io/badge/-Vitest-3C4622?style=flat-square&logo=vitest&logoColor=white)
@@ -45,6 +45,11 @@ You'll often find me contributing to the developer community through talks and a
   ![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
   ![Cypress](https://img.shields.io/badge/-Cypress-1A2734?style=flat-square&logo=cypress&logoColor=white)
 
+**CI/CD:**
+
+  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+  ![AWS CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
 **AWS Services used in practice:**
 
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
@@ -52,8 +57,14 @@ You'll often find me contributing to the developer community through talks and a
   ![Cognito](https://img.shields.io/badge/-Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white)
   ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
   ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+  ![Route 53](https://img.shields.io/badge/-Route%2053-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
+  ![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white)
+  ![AWS CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
   ![Cloud Watch](https://img.shields.io/badge/-Cloud%20Watch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-  
-  ![AWS](assets/aws-certified-cloud-practitioner.png)
-  
+
+
+<div style="display: flex">
+  <img width="120" height="120" src="https://github.com/Matheus-Rian/Matheus-Rian/assets/53922139/853fe881-e32a-431d-83e7-ea2c6c17fe65">
+  <img width="120" height="120" src="assets/aws-certified-cloud-practitioner.png">
+</div>
 
