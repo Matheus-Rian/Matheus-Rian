@@ -5,6 +5,8 @@
 [![LinkedinBadge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-riann/)
 [![MediumBadge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@matheusriann)
 [![DevdottoBadge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/matheusriann)
+[![committers.top badge](https://user-badge.committers.top/brazil/Matheus-Rian.svg)](https://user-badge.committers.top/brazil/Matheus-Rian)
+
 
 I'm a FrontEnd Engineer passionate about sharing knowledge, **working since 2020**, and creating innovative solutions **with React, Angular, AWS, and modern technologies.** I love collaborating with agile teams, following best practices, and mentoring and learning alongside my teammates. 
 
@@ -67,4 +69,3 @@ You'll often find me contributing to the developer community through talks and a
   <img width="120" height="120" src="https://github.com/Matheus-Rian/Matheus-Rian/assets/53922139/853fe881-e32a-431d-83e7-ea2c6c17fe65">
   <img width="120" height="120" src="assets/aws-certified-cloud-practitioner.png">
 </div>
-
